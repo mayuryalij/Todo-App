@@ -1,6 +1,6 @@
 # Todo App
 
-This is a simple Todo App developed using React and Express.
+This is a Todo App developed using React and Express. It allows users to manage their tasks by adding, editing, and deleting them. The app fetches data from a backend API and displays the tasks in a table format.
 
 ## Features
 
