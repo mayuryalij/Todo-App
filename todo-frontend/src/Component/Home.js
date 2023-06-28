@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const baseURL = "http://localhost:5000"; 
+const baseURL = "https://todo-backend-7mpi.onrender.com"; 
 
 function HomeComponent() {
   const [loader, setloader] = useState(true);
